@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>    
+      <head>
+         </head> 
+         <meta charset="utf-8"> 
+          <body>
+            <main>      
+               <header>
+<h1>Encabezado Nivel 1
+</header>
+
+<nav>
+ <ul>
+    <a href="#">Enlace 1</a>
+    <a href="#">Enlace 2</a>
+    <a href="#">Enlace 3</a>
+    <a href="#">Enlace 4</a>
+ </ul>
+
+<section>
+ <h2> Encabezado nivel 2 </h2>
+    <p> Aqui va texto del primer párrafo
+     <br>
+     <br>
+         Aqui va texto del segundo párrafo>
+     </p>
+</section>
+<Aside>
+<h3> Apartado </h3>
+
+<label for="Opcion">Elije una opción:</label></br>
+<input type="radio" name="opcion" id="opcion1"> Opcion 1 <br>
+<input type="radio" name="opcion" id="opcion1"> Opcion 2 <br>
+<input type="radio" name="opcion" id="opcion1"> Opcion 3 <br>
+
+
